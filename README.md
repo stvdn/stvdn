@@ -1,57 +1,24 @@
 # Hi, I'm Steven 👋
 
-I'm a Software Engineer who enjoys building useful tools, automating repetitive work, and connecting systems together.
+Software Engineer working across **automation, integrations, APIs, and web applications**.
 
-Most of my professional experience has been around automation, integrations, scripting, and enterprise systems. Outside of work, I build projects to explore software architecture, APIs, modern web development, and practical uses of AI.
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,powershell,typescript,nextjs,postgres,docker" alt="Tech stack" />
+</p>
 
-## What I work with
+Currently going deeper into backend architecture, system design, and practical AI integrations.
 
-- Python and PowerShell
-- REST APIs and integrations
-- SQL and PostgreSQL
-- Docker
-- TypeScript and Next.js
-- Software architecture and design patterns
-- Automation and scheduled workflows
+## 🚀 Featured work
 
-I've also integrated generative AI into applications using Gemini for text generation and Replicate for image generation.
+### [Portfolio →](https://stvdn.github.io)
+My personal portfolio and CV — Next.js, TypeScript, Cloudflare Workers, and GitHub Pages.
 
-## What I'm currently exploring
+### [TAG →](https://github.com/stvdn/tag-landingpage)
+A modern Next.js project focused on feature-based architecture, clean structure, and testing.
 
-- Backend development and API design
-- System architecture
-- Docker and deployment
-- Practical AI integrations
-- RAG and retrieval-based applications
-
-## Featured work
-
-### 👨‍💻 Portfolio
-
-My personal portfolio and CV, built as a bilingual web application with Next.js, TypeScript, Cloudflare Workers and GitHub Pages.
-
-[Visit portfolio](https://stvdn.github.io) · [View repository](https://github.com/stvdn/stvdn.github.io)
-
-### 🌍 Travel Planner
-
-A full-stack application for planning and tracking trips.
-
-Built with Next.js, TypeScript, PostgreSQL, Prisma and Supabase.
-
-[View repository](https://github.com/stvdn/travel_planner)
-
-### TAG
-
-A modern Next.js and TypeScript project where I explore feature-based architecture, separation of concerns and testing.
-
-[Live demo](https://tag-landingpage-seven.vercel.app/) · [View repository](https://github.com/stvdn/tag-landingpage)
-
-### 🧱 Design Patterns
-
-Small implementations used to explore software design patterns and architecture decisions.
-
-[View Factory Method project](https://github.com/stvdn/vehiculos-factory-method)
+### [Travel Planner →](https://github.com/stvdn/travel_planner)
+A full-stack travel app built with Next.js, TypeScript, Prisma, PostgreSQL, and Supabase.
 
 ---
 
-I like learning by building things, understanding how systems work, and finding simpler ways to solve real problems.
+**Building. Automating. Learning how systems fit together.**
